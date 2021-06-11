@@ -1,3 +1,0 @@
-type Mutation {
-  editChallenge(id: String!, caption: String): Post!
-}

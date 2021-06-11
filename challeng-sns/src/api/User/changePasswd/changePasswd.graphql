@@ -1,3 +1,0 @@
-type Mutation {
-  changePasswd(passwd: String!, newPasswd: String!): Boolean!
-}
